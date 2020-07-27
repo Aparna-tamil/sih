@@ -3,6 +3,8 @@ import SignUp from "./SignUp";
 import SignIn from './SignIn';
 import Root from './Root';
 import Card from './Card';
+import St from './St';
+import Bank from './Bank';
 
 
 function App() {
@@ -11,7 +13,7 @@ function App() {
             
             
             <Root/>
-            <Card/>
+            <St/>
         </div>
     );
 }
